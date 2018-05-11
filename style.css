@@ -3,6 +3,7 @@
 	height: 400px;
 	width: 400px;
 	border: 2px solid #000000;
+	overflow: hidden;
 }
 ul {
 	list-style-type: none;
